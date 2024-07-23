@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "What is Netflix?",
+    "subTitle": "Netflix is a streaming service that offers a wide variety of TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
+    "image": "",
+    "alt": "Netflix Logo",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 2,
+    "title": "What is Netflix?",
+    "subTitle": "Netflix is a streaming service that offers a wide variety of TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
+    "image": "",
+    "alt": "Netflix Logo",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "title": "What is Netflix?",
+    "subTitle": "Netflix is a streaming service that offers a wide variety of TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
+    "image": "",
+    "alt": "Netflix Logo",
+    "direction": "row-reverse"
+  }
+]
